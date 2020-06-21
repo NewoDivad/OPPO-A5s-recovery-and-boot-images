@@ -12,3 +12,7 @@ I am not liable for any damages you do to your devices with these images. I just
 
 
 JUST EXTRACT THE 7Z FILES FOR YOU TO USE THEM!!!😊
+
+
+The STOCK BOOT.IMG IS MORE THAN 25MB SO I'M PROVIDING THE LINK TO GOOGLE DRIVE.
+https://drive.google.com/file/d/1cHncX2yevzxlxFpJtjU1iaujDRk9hF0W/view?usp=drivesdk
