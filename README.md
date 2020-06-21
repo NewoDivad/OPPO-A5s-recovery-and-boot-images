@@ -9,3 +9,6 @@ Please tell me if you have used it successfully.
 How did I get these?
 OPPO A5s is a mediatek based device so temporary root using mtk-su is possible. After rooting, I backed up the two images and that is what I am sharing with you right now.
 I am not liable for any damages you do to your devices with these images. I just felt I have to share these because OPPO isn't going to provide you with these. Thanks
+
+
+JUST EXTRACT THE 7Z FILES FOR YOU TO USE THEM!!!😊
